@@ -16,4 +16,4 @@ Around the same position as the previous button (Below it) there is a button dis
 ------
 
 # Buttons Image:
-![image](https://github.com/Brick-Roblox/Brick/assets/154846949/c9171e06-0736-470f-b497-2666035b4f6d)
+![Buttons](https://github.com/Brick-Roblox/Brick/assets/154846949/c9171e06-0736-470f-b497-2666035b4f6d)
