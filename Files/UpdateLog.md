@@ -11,7 +11,7 @@ Basic Map Added
 
 Homeless Man Apperance Added
 
-# MOBILE SUPPORT see 
+# MOBILE SUPPORT (see [Phone / Tablet Controls](https://github.com/Brick-Roblox/Brick/blob/main/Files/UpdateLog.md)) 
 
 
 ### Changes / Fixes:
