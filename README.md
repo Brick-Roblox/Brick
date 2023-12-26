@@ -7,4 +7,4 @@ Everything About 🧱
 
 **[PC / Laptop Controls](https://github.com/Brick-Roblox/Brick/blob/main/Files/UpdateLog.md)**
 
-**[Phone / Tablet Controls](https://github.com/Brick-Roblox/Brick/blob/main/Files/UpdateLog.md)**
+**[Phone / Tablet Controls](https://github.com/Brick-Roblox/Brick/blob/main/Files/PhoneTabletControls.md)**
