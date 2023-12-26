@@ -1,6 +1,8 @@
 # Brick
 Everything About 🧱
+
 ------
+
 ## Browse:
 
 **[Update Log](https://github.com/Brick-Roblox/Brick/blob/main/Files/UpdateLog.md)**
