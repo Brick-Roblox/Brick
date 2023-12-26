@@ -22,4 +22,4 @@ Reduced Max Trash Drop When Destroying A Trash Can
 
 Reduced Volume And Increased Distance (Depending On Velocity) of brick hit sounds.
 
-More Minor Fixes
+More Minor Fixes And Changes
