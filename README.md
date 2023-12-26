@@ -17,6 +17,20 @@ Everything About 🧱
 
 ------
 
+# Price.
+
+## The price is set to **29 Robux** for now, it will likly be free in the future, people how buy the game early **WILL** get perks in later stages of the game, for example a custom title or a preset one saying "OG Player."
+
+------
+
+# Development.
+
+## Development speed has recently increased but might slow down will be a long time before we make the game free. The development speed of this game has varied alot during the time it has been worked on.
+
+## The game is only worked on by one person at this moment (SeedMMQ) which makes the speed even slower considering that they specialize in scripting (but they still suck at it according to them).
+
+------
+
 [Ga🧱me](https://www.roblox.com/games/15300264457/)
 
 
