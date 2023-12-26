@@ -23,3 +23,6 @@ Reduced Max Trash Drop When Destroying A Trash Can
 Reduced Volume And Increased Distance (Depending On Velocity) of brick hit sounds.
 
 More Minor Fixes And Changes
+
+### Image From Update:
+![V1](https://github.com/Brick-Roblox/Brick/assets/154846949/c58606be-685a-417a-8108-efd95e3ac155)
