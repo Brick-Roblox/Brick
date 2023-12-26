@@ -31,7 +31,7 @@ Everything About 🧱
 
 ------
 
-[Ga🧱me](https://www.roblox.com/games/15300264457/)
+### [Ga🧱me](https://www.roblox.com/games/15300264457/)
 
 
 ![Brick](https://github.com/Brick-Roblox/Brick/assets/154846949/a5e1ec65-abf5-4b9e-a69c-bea36247dcd2)
