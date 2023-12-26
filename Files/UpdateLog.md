@@ -1,8 +1,7 @@
 # Update Log
 ## Logged Since December 26th 2023
 
-# V1
-
+# V1:
 ## Updates:
 ### Additions:
 Board Added
