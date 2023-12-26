@@ -13,7 +13,7 @@ Everything About 🧱
 
 **[Charge](https://github.com/Brick-Roblox/Brick/blob/main/Files/Charge.md)**
 
-**[Basic You Should Know Stuff](https://github.com/Brick-Roblox/Brick/blob/main/Files/BasicYouShouldKnowStuff.md
+**[Basic You Should Know Stuff](https://github.com/Brick-Roblox/Brick/blob/main/Files/BasicYouShouldKnowStuff.md)**
 
 ------
 
